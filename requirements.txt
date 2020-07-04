@@ -1,3 +1,6 @@
 opencv-python
 imutils
 numpy
+cmake
+dlib
+face_recognition
